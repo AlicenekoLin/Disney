@@ -20,10 +20,10 @@ After spots, viewed as nodes in a graph, and distances, regarded as weighted edg
 in a graph, are all constructed, we implement greedy algorithm to solve this 
 problem.
 
-$make
-$./extension Extimated_Distance.txt 500 DisneyPlan.txt g
+$make<br>
+$./extension Extimated_Distance.txt 500 DisneyPlan.txt g<br>
 
 a. <"Usage: ./extension <DisneyGraph> <time budget(mins)> <outputfile> <method>">
-  , and g stands for greedy algorithm.
+  , and g stands for greedy algorithm.<br>
 b. All files needed for this extension task: DisneyGraph.h, DisneyGraph.cpp, DisneyNode.h, 
-Extimated_Distance.txt, extension.cpp
+Extimated_Distance.txt, extension.cpp<br>
